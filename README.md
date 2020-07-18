@@ -1,2 +1,2 @@
-# CLASE17072020
- Prestamo Bancario
+# Clase17072020
+ Prestamos Bancario
